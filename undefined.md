@@ -43,7 +43,7 @@ Lesson structure mix of
   <tbody>
     <tr>
       <td style="text-align:left">9.45</td>
-      <td style="text-align:left">Checkin/registration</td>
+      <td style="text-align:left">Check-in/registration</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
