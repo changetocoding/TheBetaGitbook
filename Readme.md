@@ -25,6 +25,25 @@ Lesson structure mix of
 - Online course content from udacity
 
 ### Day 1 (Thurs): Intro & Basics (Html/Css)
+
+| Time    | Activity                | Description                                 |
+| ------- | ----------------------- | ------------------------------------------- |
+| 09:45   | Mentors intro           | Mentors introduce themselves                |
+| 09:50   | Check-in                |                                             |
+| 10:00   | Feedback on last week   | Airtable online survey                      |
+| 10:05   | Intro presentation      | Mentors present on this week's topic        |
+| 10:20   | Intro workshop          | Short introductory workshop                 |
+| 11:00   | Workshop                | The first of four 2-hour workshops          |
+| _13:00_ | _Lunch_                 |                                             |
+| 14:00   | Workshop                |                                             |
+| 16:00   | Project and spike intro | Introduce the project and learning outcomes |
+| 16:15   | Technical spike         | Research a relevant topic                   |
+| 17:15   | Presentation prep       | Prepare spike presentation                  |
+| 17:45   | Check-out               |                                             |
+| _18:00_ | _Finish_                |                                             |
+
+
+
 30 minutes: Teacher intros, admin and all students on slack channel and can use  
 30 minutes: warmup games from improv classes. e.g Ball around everyone says name and what want to get out. Then do with 2 balls, then 3. Then 4  
 1.5hrs guided practise - Setup VS studio and get first webpage create.  
