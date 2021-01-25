@@ -1,7 +1,7 @@
 # Beta course
 Goal is to get first website on the web. 
 
-# Learning objectives
+## Learning objectives
 The students at the end of the course
 
 Should have:
@@ -18,13 +18,13 @@ Should be able to:
 - [ ] ? Jquery (might be too much) - Leave out
 - [ ] Find help on stackoverflow
 
-# Circulum & Timetable
+## Circulum & Timetable
 Lesson structure mix of 
 - Guided Lecture & students do at same time (Workshop style)
 - Lecture then mini project to check learnt do. Then present back to class. (Lecture style)
 - Online course content from udacity
 
-## Day 1 (Thurs): Intro & Basics (Html/Css)
+### Day 1 (Thurs): Intro & Basics (Html/Css)
 30 minutes: Teacher intros, admin and all students on slack channel and can use  
 30 minutes: warmup games from improv classes. e.g Ball around everyone says name and what want to get out. Then do with 2 balls, then 3. Then 4  
 1.5hrs guided practise - Setup VS studio and get first webpage create.  
@@ -33,7 +33,7 @@ Rest of day: Basics: html, css
 
 Drill home box model - margin, padding, pixels
 
-## Day 2 (Fri): Bootstrap
+### Day 2 (Fri): Bootstrap
 Incorporate video tutorials online too? (Find youtube tutorial and see if can download offline)
 
 - Layout
@@ -43,17 +43,17 @@ Incorporate video tutorials online too? (Find youtube tutorial and see if can do
 - Forms
 - Nav bar
 
-## Day 3 (Sat): Javascript
+### Day 3 (Sat): Javascript
 JavaScript - intro.to js video watch. [JACOB]  
 Then Js udacity course (see if can download offline) - Get as far as possible on it. Teacher chill day
 
 
-## Day 4 (Thurs): Snake project
+### Day 4 (Thurs): Snake project
 Morn: See if I can find a youtube vid too: But will be just leave them to do task. Maybe pair them?
 
 Afternoon: Get to commit to git hub.
 
-## Day 5 (Fri): Vercel deployment
+### Day 5 (Fri): Vercel deployment
 Self exs:
 - Get to lookup how to redirect page (10 min excerise) & get url &params  on stackoverflow.  
 - Vercel
@@ -62,7 +62,7 @@ Other:
 - Create website with 2 pages - login then a form
 - More content depending on how we doing for timing  
 
-## Day 6 (Sat): Final Challenge
+### Day 6 (Sat): Final Challenge
 Hong/me/Emmanuel/Claudius/Jacob. 10am (Nigeria)/9am (UK) start. 10am (UK) for volunteers  
 - Pair up students.  
 - 10.30-3.30pm to work together on one of their snake websites to get it amazing looking using what learnt so far.  
