@@ -27,6 +27,8 @@
     <html>, <body>, <head>, <p>, <h1>
 ```
 Visual learning watch this Video: http://www.viewpure.com/WTdLcipEqsc?start=0&end=0
+
+
 https://www.youtube.com/watch?v=WTdLcipEqsc
 
 ### Step by step guided excerise (1 hr):
