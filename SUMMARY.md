@@ -2,7 +2,7 @@
 
 * [Overview and Timetable](README.md)
 
+## Lesson Plans
 
-## Curriculum
-### Lesson Plans
-- [1. Introduction](Lessons/01-Intro/Introduction.md)
+* [1. Introduction](lesson-plans/introduction.md)
+
