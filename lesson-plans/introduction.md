@@ -32,15 +32,11 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
     ```markup
     <html>, <body>, <head>, <p>, <h1>
     ```
-
-- Visual learning watch this Video:
+* Visual learning watch this Video:
 
 [Viewpure link](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0). Prefer over youtube for educational purposes
 
-
-{% embed url="https://www.youtube.com/watch?v=WTdLcipEqsc" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=WTdLcipEqsc" caption="" %}
 
 ### Step by step guided excerise \(1 hr\):
 
@@ -55,8 +51,10 @@ _Class Ex_: Walk through \(already set up\) VS code. Then class to write the cod
 
     _Class Ex_: Everyone in class do above steps
 * Live server:  
-_Class Ex_ Install liveserver plugin and demonstrate how to use to display live updating data. \(By e.g. changing the colour of a page\)   
-[Live Server VS extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Instructions there for how to start it up
+
+  _Class Ex_ Install liveserver plugin and demonstrate how to use to display live updating data. \(By e.g. changing the colour of a page\)   
+
+  [Live Server VS extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Instructions there for how to start it up
 
 ### Class Experiment \(30 minutes\):
 
