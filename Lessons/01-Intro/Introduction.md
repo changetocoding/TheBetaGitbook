@@ -19,8 +19,10 @@
 - Explain how browser works
 - Explain Html and demonstrate a html page
     - Make sure explain opening and closing tags
-    - Go through some key tags: Like <html>, <body>, <head>, <p>, <h1>
-- Then get them to make html page.
+    - Go through some key tags: Like:
+```html
+    <html>, <body>, <head>, <p>, <h1>
+```
 
 ### Step by step guided excerise (1 hr):
 [Class Ex] Walk through (already set up) VS code. Then class to write code teacher wrote, then extra tag. 
