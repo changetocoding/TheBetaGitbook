@@ -35,7 +35,7 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 
 - Visual learning watch this Video:
 
-[Viewpure link. Prefer over youtube for educational purposes](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0)
+[Viewpure link](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0). Prefer over youtube for educational purposes
 
 
 {% embed url="https://www.youtube.com/watch?v=WTdLcipEqsc" %}
