@@ -4,5 +4,5 @@
 
 
 ## Curriculum
-
-- [Introduction Lesson](Lessons/01-Intro/Introduction.md)
+### Lesson Plans
+- [1. Introduction](Lessons/01-Intro/Introduction.md)
