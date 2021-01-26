@@ -1,14 +1,10 @@
 # Intro to HTML
-
+2 hours
 
 # Lesson objectives
 - Understand how internet works and browers work
 - First experience of making a web page
 - Understand role of html/js/css
-
-
-# Lesson time to deliever: 2 hours.
-
 
 # Course materials
 - Slide deck by Emmanuel
