@@ -69,7 +69,7 @@ Lesson structure mix of
     </tr>
     <tr>
       <td style="text-align:left">11:00</td>
-      <td style="text-align:left">Workshop - Intro to HTML</td>
+      <td style="text-align:left">Workshop - Intro to HTML [</td>
       <td style="text-align:left">
         <p>Ppt presentation</p>
         <p>Setup VS studio
@@ -140,7 +140,7 @@ Other:
 
 ### Day 6 (Sat): Final Challenge
 
-Hong/me/Emmanuel/Claudius/Jacob. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
+Hong/David/Emmanuel/Claudius/Jacob. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
 
 * Pair up students.  
 * 10.30-3.30pm to work together on one of their snake websites to get it amazing looking using what learnt so far.  
