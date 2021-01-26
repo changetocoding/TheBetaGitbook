@@ -34,7 +34,7 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 ![](../.gitbook/assets/web-dev-lesson-browser-infographic.jpg)
 
 * Explain Html and demonstrate a html page
-  * What does HTML stand for? _Ask class_  Answer: Hypertext Markup Language: Mark up language so way of describing text and how it should look.
+  * What does HTML stand for? _Ask class  Answer: Hypertext Markup Language: Mark up language so way of describing text and how it should look._
   * Explain opening and closing tags
   * Go through some key tags: Like:
     ```markup
@@ -64,7 +64,8 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 
 _Class Ex_: Walk through \(already set up\) VS code. Then class to write the code teacher wrote, then add an extra tag of their choosing.
 
-* Explain CSS and demonstrate how css styling can change the background colour / text colour _Class Ex_ Everyone in class do that
+* Explain CSS and demonstrate how css styling can change the background colour / text colour  
+  _Class Ex_ Everyone in class do that
 * Explain Javascript:
   * Demonstrate how to open debug console in chrome
   * Write code in chrome console \(alert\)
