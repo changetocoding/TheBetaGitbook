@@ -34,12 +34,26 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 ![](../.gitbook/assets/web-dev-lesson-browser-infographic.jpg)
 
 * Explain Html and demonstrate a html page
-  * Make sure explain opening and closing tags
+  * What does HTML stand for? _Ask class_  Answer: Hypertext Markup Language: Mark up language so way of describing text and how it should look.
+  * Explain opening and closing tags
   * Go through some key tags: Like:
-
     ```markup
     <html>, <body>, <head>, <p>, <h1>
     ```
+  * Page layout
+  ```html
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <div>
+        <p>Hello world!</p>
+    </div>
+  </body>
+</html>
+```
+
 * Visual learning watch this Video:
 
 [Viewpure link](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0). Prefer over youtube for educational purposes
