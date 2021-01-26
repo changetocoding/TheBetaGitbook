@@ -17,14 +17,22 @@
 * Infographic on How browser works
 * Html example file can create
 
+{% file src="../.gitbook/assets/web-development-lesson-1.pptx" caption="Slide deck" %}
+
+
+
 ## Teacher instruction
 
 _Class Ex_ - As the teacher explain how to perform a task. Then each student individually performs the task on their machine. Once 80% of class has completed task move on.
 
 ### Lecture \(30 minutes\):
 
-* Explain how the internet works
-* Explain how browser works
+* Explain how the internet and browser works
+
+![](../.gitbook/assets/web-dev-lesson-internet-infographic.jpg)
+
+![](../.gitbook/assets/web-dev-lesson-browser-infographic.jpg)
+
 * Explain Html and demonstrate a html page
   * Make sure explain opening and closing tags
   * Go through some key tags: Like:
