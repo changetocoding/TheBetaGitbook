@@ -14,6 +14,9 @@
 
 
 # Teacher instruction
+*Class Ex* - As the teacher explain how to perform a task. Then each student individually performs the task on their machine. Once 80% of class has completed task move on.
+
+
 ### Lecture (30 minutes):
 - Explain how the internet works
 - Explain how browser works
@@ -25,8 +28,9 @@
 ```
 
 ### Step by step guided excerise (1 hr):
-*Class Ex* Walk through (already set up) VS code. Then class to write code teacher wrote, then extra tag. 
+*Class Ex* Walk through (already set up) VS code. Then class to write the code teacher wrote, then add an extra tag of their choosing. 
 Or alternatively get them to use tutorial to run through it
+http://www.viewpure.com/-USAeFpVf_A?start=0&end=0
 
 - Explain CSS and demonstrate how css styling can change the background colour / text colour
 *Class Ex* Everyone in class do that
