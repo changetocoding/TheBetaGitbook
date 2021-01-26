@@ -51,7 +51,9 @@ _Class Ex_ Walk through \(already set up\) VS code. Then class to write the code
   * Write a js file and link to html
 
     _Class Ex_ Everyone in class do that
-* Live server _Class Ex_ Install liveserver plugin and demonstrate how to use to display live updating data. \(By e.g. changing the colour of a page\) [Live Server VS extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Instructions there for how to start it up
+* Live server:  
+_Class Ex_ Install liveserver plugin and demonstrate how to use to display live updating data. \(By e.g. changing the colour of a page\)   
+[Live Server VS extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Instructions there for how to start it up
 
 ### Class Experiment \(30 minutes\):
 
