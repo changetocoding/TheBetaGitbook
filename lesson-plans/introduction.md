@@ -42,22 +42,23 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 
 ### Step by step guided excerise \(1 hr\):
 
-_Class Ex_ Walk through \(already set up\) VS code. Then class to write the code teacher wrote, then add an extra tag of their choosing.
+_Class Ex_: Walk through \(already set up\) VS code. Then class to write the code teacher wrote, then add an extra tag of their choosing.
 
 * Explain CSS and demonstrate how css styling can change the background colour / text colour _Class Ex_ Everyone in class do that
 * Explain Javascript:
   * Demonstrate how to open debug console in chrome
   * Write code in chrome console \(alert\)
-  * Write a js file and link to html
+  * Write a js file and link to html  
+    Will discuss more about js tomorrow.
 
-    _Class Ex_ Everyone in class do that
+    _Class Ex_: Everyone in class do above steps
 * Live server:  
 _Class Ex_ Install liveserver plugin and demonstrate how to use to display live updating data. \(By e.g. changing the colour of a page\)   
 [Live Server VS extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Instructions there for how to start it up
 
 ### Class Experiment \(30 minutes\):
 
-_Class Ex_ Recreate the webpage. But each student to add own individual twist from what learnt
+_Class Ex_: Recreate the webpage. But each student to add own individual twist from what learnt
 
 ## Recommendations:
 
