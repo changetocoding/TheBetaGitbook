@@ -104,7 +104,7 @@ Lesson structure mix of
   </tbody>
 </table>
 
-### Day 2 \(Fri\): Bootstrap
+### Day 2 (Fri): Bootstrap
 
 Incorporate video tutorials online too? \(Find youtube tutorial and see if can download offline\)
 
@@ -126,7 +126,7 @@ Morn: See if I can find a youtube vid too: But will be just leave them to do tas
 
 Afternoon: Get to commit to git hub.
 
-### Day 5 \(Fri\): Vercel deployment
+### Day 5 (Fri): Vercel deployment
 
 Self exs:
 
@@ -138,7 +138,7 @@ Other:
 * Create website with 2 pages - login then a form
 * More content depending on how we doing for timing  
 
-### Day 6 \(Sat\): Final Challenge
+### Day 6 (Sat): Final Challenge
 
 Hong/me/Emmanuel/Claudius/Jacob. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
 
