@@ -38,7 +38,7 @@ Or alternatively get them to use tutorial to run through it
 [Class Ex] Everyone in class do that
 
 - Live server  
-[Class Ex] Install liveserver plugin and demonstrate how to use to display live updating data. (By e.g. changing the colour of a page)
+[Class Ex] Install liveserver plugin and demonstrate how to use to display live updating data. (By e.g. changing the colour of a page)  
 [Live Server VS extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Instructions there for how to start it up
 
 
