@@ -26,11 +26,11 @@
 ```html
     <html>, <body>, <head>, <p>, <h1>
 ```
+Visual learning watch this Video: [Visual demonstration](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0)
 
 ### Step by step guided excerise (1 hr):
 *Class Ex* Walk through (already set up) VS code. Then class to write the code teacher wrote, then add an extra tag of their choosing. 
-Or alternatively get them to use tutorial to run through it
-http://www.viewpure.com/-USAeFpVf_A?start=0&end=0
+
 
 - Explain CSS and demonstrate how css styling can change the background colour / text colour
 *Class Ex* Everyone in class do that
