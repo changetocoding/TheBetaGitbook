@@ -33,9 +33,8 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
     <html>, <body>, <head>, <p>, <h1>
     ```
 
-    Visual learning watch this Video: [  
-    http://www.viewpure.com/WTdLcipEqsc?start=0&end=0](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0)
-
+    Visual learning watch this Video: [http://www.viewpure.com/WTdLcipEqsc?start=0&end=0](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0)
+{% embed url="http://www.viewpure.com/WTdLcipEqsc?start=0&end=0" %}
 {% embed url="https://www.youtube.com/watch?v=WTdLcipEqsc" %}
 
 
