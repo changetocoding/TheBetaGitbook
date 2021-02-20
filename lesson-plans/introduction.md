@@ -25,7 +25,7 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 
 ### Lecture \(30 minutes\):
 
-* Explain how the internet and browser works
+* Explain how the internet and browser works. _Make sure explain browser is chrome/firefox/Safari..._
 
 ![](../.gitbook/assets/web-dev-lesson-internet-infographic.jpg)
 
