@@ -32,28 +32,40 @@ _Class Ex_ - As the teacher explain how to perform a task. Then each student ind
 ![](../.gitbook/assets/web-dev-lesson-browser-infographic.jpg)
 
 * Explain Html and demonstrate a html page
+
   * What does HTML stand for? _Ask class  Answer: Hypertext Markup Language: Mark up language so way of describing text and how it should look._
-  * Explain opening and closing tags
+  * _Explain may ways of creating a website: e.g. can use wix or wordpress which are more drag and drop. But all create HTML, js, and css. And this is what brower reads and unpacks to display info._
+  * _Explain at moment html file browser just unpacking a file like word unpacks a word document. And that file is local. Later file will be online and browser will go to a site to get file \(as in diagram\)_
+  * Explain opening and closing tags. Closing tag lets the computer know when something ends.
+  * _Explain tag is &lt;...&gt;_
   * Go through some key tags: Like:
 
     ```markup
-    <html>, <body>, <head>, <p>, <h1>
+    <html>, <body>, <head>, <p>, <h1>, <title>, <div>
+
+    <ul>, <ol>, <li>
     ```
 
-  * Page layout
+    * Title: shows up on the tab header of the page
+    * Div: grouping element. Will cover in more depth later in the course but this is one of the most versatile element in html
+    * List element. _Explain difference between &lt;ul&gt; and &lt;ol&gt;._
 
-    ```markup
-    <html>
-    <head>
-    <title>This is a title</title>
-    </head>
-    <body>
-    <div>
-        <p>Hello world!</p>
-    </div>
-    </body>
-    </html>
-    ```
+  * Page layout. 
+
+  ```markup
+  <html>
+  <head>
+  <title>This is a title</title>
+  </head>
+  <body>
+  <div>
+      <p>Hello world!</p>
+  </div>
+  </body>
+  </html>
+  ```
+
+* _Class Ex:_ open a webpage. View source \(right click&gt;View Page Source\) and get them to spot the tags went through
 * Visual learning watch this Video:
 
 [Viewpure link](http://www.viewpure.com/WTdLcipEqsc?start=0&end=0). Prefer over youtube for educational purposes
