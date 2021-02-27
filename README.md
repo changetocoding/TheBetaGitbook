@@ -92,7 +92,7 @@ Lesson structure mix of
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16:00</td>
+      <td style="text-align:left">16:30</td>
       <td style="text-align:left">Check-out</td>
       <td style="text-align:left">Feedback - online survey</td>
     </tr>
@@ -106,82 +106,26 @@ Lesson structure mix of
 
 ### Day 2 \(Fri\): Bootstrap
 
+3 x 1.5hr sessions
 
+30 mins break, 1 hour lunch break
 
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| 9.45 | Check-in/registration |  |
+| 10:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
+| _11:30_ | _Break \(30 minutes\)_ |  |
+| 12:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
+| _13:30_ | _Lunch_ |  |
+| 14:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
+| _15:30_ | _Break / Team building activity_ | \_\_ |
+| 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
+| 17:00 | Check-out | Feedback - online survey |
+| 17:15 | Finish |  |
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Time</th>
-      <th style="text-align:left">Activity</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">9.45</td>
-      <td style="text-align:left">Check-in/registration</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10:00</td>
-      <td style="text-align:left">Course Intro</td>
-      <td style="text-align:left">Intro by David Mark [Vid Call]</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10:10</td>
-      <td style="text-align:left">Teachers Intro</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10:20</td>
-      <td style="text-align:left">Slack</td>
-      <td style="text-align:left">Get all students set up with slack</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">10:30</td>
-      <td style="text-align:left">Warmup/Student intros</td>
-      <td style="text-align:left">Warmup games from improv classes. e.g Ball around everyone says name and
-        what want to get out. Then do with 2 balls, then 3. Then 4</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">11:00</td>
-      <td style="text-align:left">Workshop - Intro to HTML [</td>
-      <td style="text-align:left">
-        <p>Ppt presentation</p>
-        <p>Setup VS studio
-          <br />Create first webpage</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><em>13:00</em>
-      </td>
-      <td style="text-align:left"><em>Lunch</em>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">14:00</td>
-      <td style="text-align:left">Workshop</td>
-      <td style="text-align:left">
-        <p>Basics: html, css</p>
-        <p>Drill home box model - margin, padding, pixels</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">16:00</td>
-      <td style="text-align:left">Check-out</td>
-      <td style="text-align:left">Feedback - online survey</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">16:45</td>
-      <td style="text-align:left">Finish</td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>
+{% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
-
+{% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %}
 
 
 
