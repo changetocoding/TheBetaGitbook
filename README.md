@@ -136,7 +136,7 @@ Incorporate video tutorials online too? \(Find youtube tutorial and see if can d
 * Forms
 * Nav bar
 
-### Day 3 \(Weds\): Javascript
+### Day 3 \(Weds\) & 4 \(Thurs\): Javascript
 
 JavaScript - intro.to js video watch. \[JACOB\]  
 Then Js udacity course \(see if can download offline\) - Get as far as possible on it. Teacher chill day
@@ -154,13 +154,17 @@ Then Js udacity course \(see if can download offline\) - Get as far as possible 
 | 17:00 | Check-out | Feedback - online survey |
 | 17:15 | Finish |  |
 
-### Day 4 \(Thurs\): Snake project
+### 
+
+
+
+### Day 5 \(Fri\): Snake project & Vercel deployment & Github
 
 Morn: See if I can find a youtube vid too: But will be just leave them to do task. Maybe pair them?
 
 Afternoon: Get to commit to git hub.
 
-### Day 5 \(Fri\): Vercel deployment
+
 
 Self exs:
 
