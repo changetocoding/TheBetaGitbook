@@ -121,7 +121,7 @@ Lesson structure mix of
 | _15:30_ | _Break / Team building activity_ | \_\_ |
 | 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
 | 17:00 | Check-out | Feedback - online survey |
-| 17:15 | Finish | {% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %} |
+| 17:15 | Finish |  |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
