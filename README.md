@@ -109,6 +109,77 @@ Lesson structure mix of
 
 
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Time</th>
+      <th style="text-align:left">Activity</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">9.45</td>
+      <td style="text-align:left">Check-in/registration</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10:00</td>
+      <td style="text-align:left">Course Intro</td>
+      <td style="text-align:left">Intro by David Mark [Vid Call]</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10:10</td>
+      <td style="text-align:left">Teachers Intro</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10:20</td>
+      <td style="text-align:left">Slack</td>
+      <td style="text-align:left">Get all students set up with slack</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10:30</td>
+      <td style="text-align:left">Warmup/Student intros</td>
+      <td style="text-align:left">Warmup games from improv classes. e.g Ball around everyone says name and
+        what want to get out. Then do with 2 balls, then 3. Then 4</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">11:00</td>
+      <td style="text-align:left">Workshop - Intro to HTML [</td>
+      <td style="text-align:left">
+        <p>Ppt presentation</p>
+        <p>Setup VS studio
+          <br />Create first webpage</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><em>13:00</em>
+      </td>
+      <td style="text-align:left"><em>Lunch</em>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">14:00</td>
+      <td style="text-align:left">Workshop</td>
+      <td style="text-align:left">
+        <p>Basics: html, css</p>
+        <p>Drill home box model - margin, padding, pixels</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">16:00</td>
+      <td style="text-align:left">Check-out</td>
+      <td style="text-align:left">Feedback - online survey</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">16:45</td>
+      <td style="text-align:left">Finish</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
