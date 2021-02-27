@@ -121,7 +121,7 @@ Lesson structure mix of
 | _15:30_ | _Break / Team building activity_ | \_\_ |
 | 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
 | 17:00 | Check-out | Feedback - online survey |
-| 17:15 | Finish |  |
+| 17:15 | Finish |{% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %}  |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
@@ -142,6 +142,20 @@ Incorporate video tutorials online too? \(Find youtube tutorial and see if can d
 
 JavaScript - intro.to js video watch. \[JACOB\]  
 Then Js udacity course \(see if can download offline\) - Get as far as possible on it. Teacher chill day
+
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| 9.45 | Check-in/registration |  |
+| 10:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
+| _11:30_ | _Break \(30 minutes\)_ |  |
+| 12:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
+| _13:30_ | _Lunch_ |  |
+| 14:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
+| _15:30_ | _Break / Team building activity_ | \_\_ |
+| 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
+| 17:00 | Check-out | Feedback - online survey |
+| 17:15 | Finish |  |
 
 ### Day 4 \(Thurs\): Snake project
 
