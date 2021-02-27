@@ -106,6 +106,14 @@ Lesson structure mix of
 
 ### Day 2 \(Fri\): Bootstrap
 
+
+
+
+
+
+
+
+
 Incorporate video tutorials online too? \(Find youtube tutorial and see if can download offline\)
 
 * Layout
