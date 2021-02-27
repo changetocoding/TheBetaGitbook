@@ -30,7 +30,7 @@ Lesson structure mix of
 * Lecture then mini project to check learnt do. Then present back to class. \(Lecture style\)
 * Online course content from udacity
 
-### Day 1 \(Thurs\): Intro & Basics \(Html/Css\)
+### Day 1 \(Monday\): Intro & Basics \(Html/Css\)
 
 <table>
   <thead>
@@ -104,7 +104,7 @@ Lesson structure mix of
   </tbody>
 </table>
 
-### Day 2 \(Fri\): Bootstrap
+### Day 2 \(Tues\): Bootstrap
 
 3 x 1.5hr sessions
 
@@ -121,13 +121,11 @@ Lesson structure mix of
 | _15:30_ | _Break / Team building activity_ | \_\_ |
 | 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
 | 17:00 | Check-out | Feedback - online survey |
-| 17:15 | Finish |{% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %}  |
+| 17:15 | Finish | {% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %} |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
 {% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %}
-
-
 
 Incorporate video tutorials online too? \(Find youtube tutorial and see if can download offline\)
 
@@ -138,11 +136,10 @@ Incorporate video tutorials online too? \(Find youtube tutorial and see if can d
 * Forms
 * Nav bar
 
-### Day 3 \(Sat\): Javascript
+### Day 3 \(Weds\): Javascript
 
 JavaScript - intro.to js video watch. \[JACOB\]  
 Then Js udacity course \(see if can download offline\) - Get as far as possible on it. Teacher chill day
-
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
