@@ -19,6 +19,8 @@
 
 {% file src="../.gitbook/assets/web-development-lesson-1.pptx" caption="Slide deck" %}
 
+{% file src="../.gitbook/assets/web-dev\_lesson-1.pptx" %}
+
 ## Teacher instruction
 
 _Class Ex_ - As the teacher explain how to perform a task. Then each student individually performs the task on their machine. Once 80% of class has completed task move on.
