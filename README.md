@@ -1,6 +1,10 @@
 # Overview and Timetable
 
-Goal is to get first website on the web.
+6 Day in person course for 10 students. Tutor led. Goal is to get first website on the web.
+
+Charity website:
+
+[https://thebackhomeproject.org/](https://thebackhomeproject.org/)
 
 ## Learning objectives
 
