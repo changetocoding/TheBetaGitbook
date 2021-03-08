@@ -138,7 +138,7 @@ Incorporate video tutorials online too? \(Find youtube tutorial and see if can d
 
 ### Day 3 \(Weds\) & 4 \(Thurs\): Javascript
 
-JavaScript - intro.to js video watch. \[JACOB\]  
+JavaScript - intro.to js video watch. \[TASKING\]  
 Then Js udacity course \(see if can download offline\) - Get as far as possible on it. Teacher chill day
 
 | Time | Activity | Description |
@@ -168,7 +168,7 @@ Afternoon: Get to commit to git hub.
 
 Self exs:
 
-* Get to lookup how to redirect page \(10 min excerise\) & get url ¶ms  on stackoverflow.  
+* Get to lookup how to redirect page \(10 min excerise\) & get url on stackoverflow.  
 * Vercel
 
 Other:
@@ -178,10 +178,10 @@ Other:
 
 ### Day 6 \(Sat\): Final Challenge
 
-Hong/David/Emmanuel/Claudius/Jacob. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
+2 UK tutors + 3 Volunteer mentors. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
 
 * Pair up students.  
 * 10.30-3.30pm to work together on one of their snake websites to get it amazing looking using what learnt so far.  
-* 3.30-4pm presentation. Each team 2 minutes. Closing speech and Announce winner: Edward Mark  
+* 3.30-4pm presentation. Each team 2 minutes. Closing speech and Announce winner: Lead 
 * Small Prize for winning team. TBC  
 
