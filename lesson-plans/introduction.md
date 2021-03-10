@@ -99,14 +99,16 @@ _Class Ex_: Walk through \(already set up\) VS code. Then class to write the cod
 
 _Class Ex_: Recreate the webpage. But each student to add own individual twist from what learnt
 
-## Recommendations:
+## Teacher Recommendations:
 
 Make lesson interactive for example:
 
 * Asking them if know internet works
 * Get them to pick the background colour of page 
 
-## Work assessment:
+#### What worked well in the past:
 
 The test student went bit over top and did a website with pics and sound. Was relatively easy homework
+
+#### What hasn't worked well in the past
 
