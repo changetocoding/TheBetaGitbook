@@ -119,49 +119,49 @@ Lesson structure mix of
 | 11:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
 | _12:30_ | _Lunch_ |  |
 | 13:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
-| 15:00 | _Team building activity Or Practise what learned_ | _(like build paper tower)_ |
+| 15:00 | _Team building activity Or Practise what learned_ | _\(like build paper tower\)_ |
 | 16:00 | Finish |  |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
 {% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %}
 
-
-
 ### Day 3 \(Weds\) & 4 \(Thurs\): Javascript
 
-JavaScript  \[TASKING\] 
-- Cover Js udacity course \(see if can download offline\) - Get as far as possible on it. 
-- Fizz Buzz game to test knowledge
+JavaScript \[TASKING\]
+
+* Cover Js udacity course \(see if can download offline\) - Get as far as possible on it. 
+* Fizz Buzz game to test knowledge
 
 Teacher chill days
+
+{% page-ref page="lesson-plans/4.-javascript.md" %}
+
+
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
 | 8.45 | Check-in/registration |  |
-| 9:00 | Workshop I |
+| 9:00 | Workshop I |  |
 | _10:30_ | _Break \(30 minutes\)_ |  |
 | 11:00 | Workshop II |  |
-| _12:30_ | _Lunch \(1 hr \)_  |  |
+| _12:30_ | _Lunch \(1 hr \)_ |  |
 | 13:30 | Workshop III |  |
-| 15:00 | Recap what learned on day | (Get every student to come to front and talk for 2 minutes) |
+| 15:00 | Recap what learned on day | \(Get every student to come to front and talk for 2 minutes\) |
 | 15:20 or 15:30 | Finish |  |
-
-
 
 ### Day 5 \(Fri\): Snake project, Vercel deployment & Github
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
 | 8.45 | Check-in/registration |  |
-| 9:00 | Workshop I |
+| 9:00 | Workshop I |  |
 | _10:30_ | _Break \(30 minutes\)_ |  |
 | 11:00 | Workshop II |  |
-| _12:30_ | _Lunch \(1 hr \)_  |  |
+| _12:30_ | _Lunch \(1 hr \)_ |  |
 | 13:30 | Workshop III | At end of session each students present their live snake game |
-| 15:00 | Recap what learned on day | (Teacher gives summary) |
+| 15:00 | Recap what learned on day | \(Teacher gives summary\) |
 | 15:15 or 15:30 | Finish |  |
-
 
 ### Day 6 \(Sat\): Final Challenge
 
