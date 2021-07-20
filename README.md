@@ -163,9 +163,9 @@ Teacher chill days
 | 15:00 | Recap what learned on day | \(Teacher gives summary, or students present snake games if not enough time in workshop\) |
 | 15:15 or 15:30 | Finish |  |
 
-{% page-ref page="lesson-plans/5.-snake-project.md" %}
-
 {% page-ref page="lesson-plans/6.-interacting-with-the-dom.md" %}
+
+{% page-ref page="lesson-plans/5.-snake-project.md" %}
 
 {% page-ref page="lesson-plans/6.-vercel-and-github.md" %}
 
