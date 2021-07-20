@@ -119,7 +119,7 @@ Lesson structure mix of
 | 11:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
 | _12:30_ | _Lunch_ |  |
 | 13:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
-| 15:00 | _Team building activity (like build paper tower) Or Practise what learned_ | \_\_ |
+| 15:00 | _Team building activity Or Practise what learned_ | _(like build paper tower)_ |
 | 16:00 | Finish |  |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
