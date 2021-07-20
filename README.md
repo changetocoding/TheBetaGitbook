@@ -116,11 +116,11 @@ Lesson structure mix of
 | 8.45 | Check-in/registration |  |
 | 9:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
 | _10:30_ | _Break \(30 minutes\)_ |  |
-| 11:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
+| 11:00 | Workshop II - Bootstrap | Layout, Forms |
 | _12:30_ | _Lunch_ |  |
-| 13:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
+| 13:30 | Workshop III - Bootstrap | Forms, Buttons, \(optional\) Nav bar |
 | 15:00 | _Team building activity Or Practise what learned_ | _\(like build paper tower\)_ |
-| 16:00 | Finish |  |
+| 15:30 or 16:00 | Finish |  |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
