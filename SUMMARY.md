@@ -13,7 +13,3 @@
 * [7. Vercel & Github](lesson-plans/6.-vercel-and-github.md)
 * [8. Final Project](lesson-plans/7.-final-project.md)
 
----
-
-* [Additional Exercises](additional-exercises.md)
-

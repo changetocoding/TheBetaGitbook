@@ -155,13 +155,21 @@ Teacher chill days
 | Time | Activity | Description |
 | :--- | :--- | :--- |
 | 8.45 | Check-in/registration |  |
-| 9:00 | Workshop I |  |
+| 9:00 | Workshop I | Interacting with DOM |
 | _10:30_ | _Break \(30 minutes\)_ |  |
-| 11:00 | Workshop II |  |
+| 11:00 | Workshop II | Snake Project |
 | _12:30_ | _Lunch \(1 hr \)_ |  |
-| 13:30 | Workshop III | At end of session each students present their live snake game |
-| 15:00 | Recap what learned on day | \(Teacher gives summary\) |
+| 13:30 | Workshop III | Vercel & Github |
+| 15:00 | Recap what learned on day | \(Teacher gives summary, or students present snake games if not enough time in workshop\) |
 | 15:15 or 15:30 | Finish |  |
+
+{% page-ref page="lesson-plans/5.-snake-project.md" %}
+
+{% page-ref page="lesson-plans/6.-interacting-with-the-dom.md" %}
+
+{% page-ref page="lesson-plans/6.-vercel-and-github.md" %}
+
+
 
 ### Day 6 \(Sat\): Final Challenge
 
