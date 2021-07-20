@@ -128,16 +128,8 @@ Lesson structure mix of
 
 ### Day 3 \(Weds\) & 4 \(Thurs\): Javascript
 
-JavaScript \[TASKING\]
-
 * Cover Js udacity course \(see if can download offline\) - Get as far as possible on it. 
 * Fizz Buzz game to test knowledge
-
-Teacher chill days
-
-{% page-ref page="lesson-plans/4.-javascript.md" %}
-
-
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
@@ -150,7 +142,9 @@ Teacher chill days
 | 15:00 | Recap what learned on day | \(Get every student to come to front and talk for 2 minutes\) |
 | 15:20 or 15:30 | Finish |  |
 
-### Day 5 \(Fri\): Snake project, Vercel deployment & Github
+{% page-ref page="lesson-plans/4.-javascript.md" %}
+
+### Day 5 \(Fri\): JS, Vercel deployment & Github
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
