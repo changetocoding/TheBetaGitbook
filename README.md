@@ -46,33 +46,33 @@ Lesson structure mix of
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">9.45</td>
+      <td style="text-align:left">8.45</td>
       <td style="text-align:left">Check-in/registration</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">10:00</td>
+      <td style="text-align:left">9:00</td>
       <td style="text-align:left">Course Intro</td>
       <td style="text-align:left">Intro by David Mark [Vid Call]</td>
     </tr>
     <tr>
-      <td style="text-align:left">10:10</td>
+      <td style="text-align:left">9:10</td>
       <td style="text-align:left">Teachers Intro</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">10:20</td>
+      <td style="text-align:left">9:20</td>
       <td style="text-align:left">Slack</td>
       <td style="text-align:left">Get all students set up with slack</td>
     </tr>
     <tr>
-      <td style="text-align:left">10:30</td>
+      <td style="text-align:left">9:30</td>
       <td style="text-align:left">Warmup/Student intros</td>
       <td style="text-align:left">Warmup games from improv classes. e.g Ball around everyone says name and
         what want to get out. Then do with 2 balls, then 3. Then 4</td>
     </tr>
     <tr>
-      <td style="text-align:left">11:00</td>
+      <td style="text-align:left">10:00</td>
       <td style="text-align:left">Workshop - Intro to HTML [</td>
       <td style="text-align:left">
         <p>Ppt presentation</p>
@@ -81,14 +81,14 @@ Lesson structure mix of
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><em>13:00</em>
+      <td style="text-align:left"><em>12:00</em>
       </td>
       <td style="text-align:left"><em>Lunch</em>
       </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">14:00</td>
+      <td style="text-align:left">13:00</td>
       <td style="text-align:left">Workshop</td>
       <td style="text-align:left">
         <p>Basics: html, css</p>
@@ -96,17 +96,14 @@ Lesson structure mix of
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16:30</td>
-      <td style="text-align:left">Check-out</td>
-      <td style="text-align:left">Feedback - online survey</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">16:45</td>
+      <td style="text-align:left">15:30</td>
       <td style="text-align:left">Finish</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
+
+{% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
 ### Day 2 \(Tues\): Bootstrap
 
@@ -116,76 +113,62 @@ Lesson structure mix of
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
-| 9.45 | Check-in/registration |  |
-| 10:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
-| _11:30_ | _Break \(30 minutes\)_ |  |
-| 12:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
-| _13:30_ | _Lunch_ |  |
-| 14:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
-| _15:30_ | _Break / Team building activity_ | \_\_ |
-| 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
-| 17:00 | Check-out | Feedback - online survey |
-| 17:15 | Finish |  |
+| 8.45 | Check-in/registration |  |
+| 9:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
+| _10:30_ | _Break \(30 minutes\)_ |  |
+| 11:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
+| _12:30_ | _Lunch_ |  |
+| 13:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
+| 15:00 | _Team building activity (like build paper tower) Or Practise what learned_ | \_\_ |
+| 16:00 | Finish |  |
 
 {% page-ref page="lesson-plans/2.-more-html-css.md" %}
 
 {% page-ref page="lesson-plans/3.-bootstrap-and-user-input.md" %}
 
-Incorporate video tutorials online too? \(Find youtube tutorial and see if can download offline\)
 
-* Layout
-* Col-md/sm/lg
-* Resize image/content with col-md resize
-* Buttons
-* Forms
-* Nav bar
 
 ### Day 3 \(Weds\) & 4 \(Thurs\): Javascript
 
-JavaScript - intro.to js video watch. \[TASKING\]  
-Then Js udacity course \(see if can download offline\) - Get as far as possible on it. Teacher chill day
+JavaScript  \[TASKING\] 
+- Cover Js udacity course \(see if can download offline\) - Get as far as possible on it. 
+- Fizz Buzz game to test knowledge
+
+Teacher chill days
 
 | Time | Activity | Description |
 | :--- | :--- | :--- |
-| 9.45 | Check-in/registration |  |
-| 10:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
-| _11:30_ | _Break \(30 minutes\)_ |  |
-| 12:00 | Workshop II - Bootstrap | Layout, Forms, Columns |
-| _13:30_ | _Lunch_ |  |
-| 14:30 | Workshop III - Bootstrap | Forms, Buttons, Nav bar |
-| _15:30_ | _Break / Team building activity_ | \_\_ |
-| 16:00 | Workshop III - Bootstrap | More advanced bootsrap and play around with things |
-| 17:00 | Check-out | Feedback - online survey |
-| 17:15 | Finish |  |
-
-### 
+| 8.45 | Check-in/registration |  |
+| 9:00 | Workshop I |
+| _10:30_ | _Break \(30 minutes\)_ |  |
+| 11:00 | Workshop II |  |
+| _12:30_ | _Lunch \(1 hr \)_  |  |
+| 13:30 | Workshop III |  |
+| 15:00 | Recap what learned on day | (Get every student to come to front and talk for 2 minutes) |
+| 15:20 or 15:30 | Finish |  |
 
 
 
-### Day 5 \(Fri\): Snake project & Vercel deployment & Github
+### Day 5 \(Fri\): Snake project, Vercel deployment & Github
 
-Morn: See if I can find a youtube vid too: But will be just leave them to do task. Maybe pair them?
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| 8.45 | Check-in/registration |  |
+| 9:00 | Workshop I |
+| _10:30_ | _Break \(30 minutes\)_ |  |
+| 11:00 | Workshop II |  |
+| _12:30_ | _Lunch \(1 hr \)_  |  |
+| 13:30 | Workshop III | At end of session each students present their live snake game |
+| 15:00 | Recap what learned on day | (Teacher gives summary) |
+| 15:15 or 15:30 | Finish |  |
 
-Afternoon: Get to commit to git hub.
-
-
-
-Self exs:
-
-* Get to lookup how to redirect page \(10 min excerise\) & get url on stackoverflow.  
-* Vercel
-
-Other:
-
-* Create website with 2 pages - login then a form
-* More content depending on how we doing for timing  
 
 ### Day 6 \(Sat\): Final Challenge
 
 2 UK tutors + 3 Volunteer mentors. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
 
 * Pair up students.  
-* 10.30-3.30pm to work together on one of their snake websites to get it amazing looking using what learnt so far.  
-* 3.30-4pm presentation. Each team 2 minutes. Closing speech and Announce winner: Lead 
+* 10.30-2.30pm to work together to create a login page and landing page for an ecommerce website of their choice.
+* 2.30-3.30pm presentation. Each team 3 minutes. Closing speech and Announce winner: Lead 
 * Small Prize for winning team. TBC  
 
