@@ -173,7 +173,7 @@ Teacher chill days
 
 ### Day 6 \(Sat\): Final Challenge
 
-2 UK tutors + 3 Volunteer mentors. 10am \(Nigeria\)/9am \(UK\) start. 10am \(UK\) for volunteers
+3 UK Volunteer mentors. 10am start
 
 * Pair up students.  
 * 10.30-2.30pm to work together to create a login page and landing page for an ecommerce website of their choice.
