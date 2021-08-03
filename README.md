@@ -53,17 +53,12 @@ Lesson structure mix of
     <tr>
       <td style="text-align:left">9:00</td>
       <td style="text-align:left">Course Intro</td>
-      <td style="text-align:left">Intro by David Mark [Vid Call]</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">9:10</td>
       <td style="text-align:left">Teachers Intro</td>
       <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">9:20</td>
-      <td style="text-align:left">Slack</td>
-      <td style="text-align:left">Get all students set up with slack</td>
     </tr>
     <tr>
       <td style="text-align:left">9:30</td>
