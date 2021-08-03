@@ -144,9 +144,9 @@ Lesson structure mix of
 | Time | Activity | Description |
 | :--- | :--- | :--- |
 | 8.45 | Check-in/registration |  |
-| 9:00 | Workshop I | Interacting with DOM |
+| 9:00 | Workshop I | Self learning skills |
 | _10:30_ | _Break \(30 minutes\)_ |  |
-| 11:00 | Workshop II | Snake Project |
+| 11:00 | Workshop II | Interacting with DOM |
 | _12:30_ | _Lunch \(1 hr \)_ |  |
 | 13:30 | Workshop III | Vercel & Github |
 | 15:00 | Recap what learned on day | \(Teacher gives summary, or students present snake games if not enough time in workshop\) |
