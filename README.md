@@ -86,7 +86,7 @@ Lesson structure mix of
       <td style="text-align:left">13:00</td>
       <td style="text-align:left">Workshop</td>
       <td style="text-align:left">
-        <p>Basics: html, css</p>
+        <p>Basics: html, css (part 1)</p>
         <p>Drill home box model - margin, padding, pixels</p>
       </td>
     </tr>
@@ -109,7 +109,7 @@ Lesson structure mix of
 | Time | Activity | Description |
 | :--- | :--- | :--- |
 | 8.45 | Check-in/registration |  |
-| 9:00 | Workshop I - Finish off More Html/CSS, Bootstrap | Finish off stuff from previous day or move onto bootstrap Intro to bootstrap |
+| 9:00 | Workshop I - Finish off More Html/CSS  \(part 2\) | Finish off stuff from previous day  |
 | _10:30_ | _Break \(30 minutes\)_ |  |
 | 11:00 | Workshop II - Bootstrap | Layout, Forms |
 | _12:30_ | _Lunch_ |  |
