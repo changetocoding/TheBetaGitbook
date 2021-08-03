@@ -165,7 +165,9 @@ Lesson structure mix of
 3 UK Volunteer mentors. 10am start
 
 * Pair up students.  
-* 10.30-2.30pm to work together to create a login page and landing page for an ecommerce website of their choice.
+* 9-2.30pm to work together to create a login page and landing page for an ecommerce website of their choice.
 * 2.30-3.30pm presentation. Each team 3 minutes. Closing speech and Announce winner: Lead 
-* Small Prize for winning team. TBC  
+  * Students complete survey while waiting: [https://david438053.typeform.com/to/kNnWFUeO](https://david438053.typeform.com/to/kNnWFUeO
+    )
+* Small Prize for winning team & best student on course
 
